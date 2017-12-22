@@ -52,17 +52,17 @@ public final class MailUtil {
 	/**
 	 * @Fields SEND_USER : 发件人用户名
 	 */
-	private String SEND_USER = "i@dreamwings.cn";
+	private String SEND_USER = "";
 
 	/**
 	 * @Fields SEND_UNAME : 发件人邮箱
 	 */
-	private String SEND_UNAME = "i@dreamwings.cn";
+	private String SEND_UNAME = "";
 
 	/**
 	 * @Fields SEND_PWD : 发件人密码
 	 */
-	private String SEND_PWD = "ZQ08671317txwtx";
+	private String SEND_PWD = "";
 
 	/**
 	 * @Fields message : 建立会话
