@@ -25,7 +25,7 @@ public final class ServerInfo {
 	/**
 	 * @Fields SERVER_IP : 服务器地址
 	 */
-	public final static String SERVER_IP = "115.159.125.241";
+	public final static String SERVER_IP = "127.0.0.1";
 
 	/**
 	 * @Fields CHAT_PORT : 聊天端口监听

@@ -54,7 +54,7 @@ public final class ServerInfo {
 	/**
 	 * @Fields DB_USER_NAME : Mysql 数据库连接用户名
 	 */
-	public final static String DB_USER_NAME = "im0qianqian";
+	public final static String DB_USER_NAME = "oicq";
 
 	/**
 	 * @Fields DB_USER_PASSWORD : Mysql 数据库连接密码
