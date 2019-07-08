@@ -14,9 +14,11 @@
 
 看到好多人 fork 简单说说如何开箱吧！
 
-本项目基于 JDK8 + MySQL 开发
+本项目基于 JDK 8 + MySQL 开发
 
-SQL 建表语句在[这里](https://github.com/im0qianqian/OICQ/blob/master/OICQ_server/src/com/oicq/database/create.sql)，带数据（课设测试时所用）的建表语句在[这里](https://github.com/im0qianqian/OICQ/blob/master/OICQ_server/src/com/oicq/database/create_with_data.sql)
+SQL 建表语句在[这里](https://github.com/im0qianqian/OICQ/blob/master/OICQ_server/src/com/oicq/database/create.sql)
+
+带数据的建表语句在[这里](https://github.com/im0qianqian/OICQ/blob/master/OICQ_server/src/com/oicq/database/create_with_data.sql)，数据为课设时测试所用，账户为 `10001`（可参考 SQL 内容），密码为 `123456`
 
 有关服务端/客户端通讯地址及端口设置见 config 下的 ServerInfo.java（server/client 各有一份）
 
