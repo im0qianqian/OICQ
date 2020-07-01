@@ -1,10 +1,20 @@
 # OICQ
 
+**UPD: 2020.07.01**
+
+本项目配置教程已出炉，观看链接：[https://www.bilibili.com/video/BV1Fb411V7yP?p=2](https://www.bilibili.com/video/BV1Fb411V7yP?p=2)
+
+OICQ_web 演示出错的原因是 PHP 7.0 已经废弃掉当时使用的函数了，估计 5.6 版本正常。
+
+欢迎大家 star，或者去 bilibili 一键三连~ 也欢迎大家提 pr 来修复项目中的 bug。
+
+---
+
 **UPD: 2019.04.20**
 
 突然想把以前为这个程序录制视频的作业发布在 bilibili 上啦~
 
-于是，就有了 [OICQ（一款仿 QQ 的聊天程序）](https://www.bilibili.com/video/av49842257)
+于是，就有了 [【开发向】OICQ（一款仿 QQ 的聊天程序）](https://www.bilibili.com/video/av49842257)
 
 嗯~ 当时因为有时间限制，所以视频做了加速处理~ 希望不要嫌弃千千啦~ 嘤~
 
