@@ -64,3 +64,7 @@ OICQ_web 是用 PHP 编写的一个简单的注册页面（忘记有没有 bug �
 - [x] 聊天数据交互
 - [x] 聊天记录存入数据库
 - [ ] GUI 界面
+
+### Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=im0qianqian/OICQ&type=Date)](https://star-history.com/#im0qianqian/OICQ&Date)
